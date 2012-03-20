@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Decryptor
+namespace Utils
 {
     public abstract class ConsoleEngineBase
     {
